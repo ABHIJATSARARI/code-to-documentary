@@ -11,7 +11,7 @@
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
   
-  [🚀 Live Demo](#) • [📹 Video Demo](#) • [🐛 Report Bug](../../issues) • [✨ Request Feature](../../issues)
+  [🚀 Live Demo](https://abhijatsarari.github.io/code-to-documentary/) • [📹 Video Demo](https://youtu.be/bX2qUCnzfIg) • [🐛 Report Bug](../../issues) • [✨ Request Feature](../../issues)
   
 </div>
 
