@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="logo.png" alt="Code-to-Documentary Logo" width="200"/>
+  <img src="logo.png" alt="Code-to-Documentary Logo" width="400"/>
   
   # 🎬 Code-to-Documentary
   
