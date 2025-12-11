@@ -1,0 +1,5 @@
+{
+  "name": "Code-to-Documentary",
+  "description": "Turn your boring codebase into a thrilling David Attenborough-style nature documentary using Gemini 1.5 Pro (via Gemini 3 Pro Preview) and Text-to-Speech.",
+  "requestFramePermissions": []
+}
