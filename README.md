@@ -232,24 +232,6 @@ npm run preview
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### 🎬 Splash Screen
-*Welcome to the wild world of code documentaries*
-
-### 🎨 Style Selection
-*Choose your narrative persona*
-
-### 📤 Upload Interface
-*Drag and drop your codebase*
-
-### 🎭 Processing View
-*AI analyzing your project*
-
-### 🎵 Player Interface
-*Listen and enjoy the commentary*
 
 </div>
 
