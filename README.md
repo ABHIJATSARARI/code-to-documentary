@@ -194,7 +194,7 @@ Perfect for: Grandiose storytelling where functions are spells and bugs are drag
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/code-to-documentary.git
+   git clone https://github.com/ABHIJATSARARI/code-to-documentary.git
    cd code-to-documentary
    ```
 
@@ -375,9 +375,9 @@ This project is open source and available under the [MIT License](LICENSE).
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/yourusername.png" width="100px;" alt=""/><br />
-<sub><b>Your Name</b></sub><br />
-<a href="https://github.com/yourusername">GitHub</a> • <a href="https://twitter.com/yourusername">Twitter</a>
+<img src="https://github.com/ABHIJATSARARI.png" width="100px;" alt=""/><br />
+<sub><b>ABHIJAT SARARI</b></sub><br />
+<a href="https://github.com/ABHIJATSARARI">GitHub</a> • <a href="https://twitter.com/ABHIJATSARARI">Twitter</a>
 </td>
 <!-- Add more team members here -->
 </tr>
