@@ -276,36 +276,6 @@ npm run preview
 
 ---
 
-## 🏆 CodeCraze Hackathon
-
-<div align="center">
-  
-### 🎉 Built for CodeCraze - The Ultimate Open Innovation Hackathon
-
-**Prize Pool: $5,000**
-
-</div>
-
-#### 🌟 About CodeCraze
-
-CodeCraze is the ultimate open-innovation hackathon where creativity meets technology. With **no fixed themes** and **no restrictions**, participants have complete freedom to build anything they're passionate about.
-
-#### 💰 Prize Distribution
-
-| 🏅 Position | 💵 Prize | Description |
-|------------|---------|-------------|
-| 🥇 **Winner** | **$2,500** | Best overall project |
-| 🥈 **1st Runner Up** | **$1,500** | Outstanding innovation |
-| 🥉 **2nd Runner Up** | **$1,000** | Impressive execution |
-
-#### ⚖️ Judging Criteria
-
-This project was built with these criteria in mind:
-
-- ✨ **Uniqueness of Idea** - Novel approach to code analysis and presentation
-- 🌍 **Real World Impact** - Educational value and entertainment for developers
-- 🔧 **Technologies Used** - Leveraging cutting-edge AI (Gemini 3 Pro) and modern web stack
-
 #### 🎯 Why This Project Stands Out
 
 1. **🚀 Innovative AI Application** - Creative use of Gemini's massive context window
